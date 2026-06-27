@@ -1,0 +1,12 @@
+# Sample Project
+
+This is my first GitHub project.
+
+## Files
+- main.py
+
+## How to Run
+
+```bash
+python main.py
+```
